@@ -83,66 +83,82 @@
         }
       ]
     },
-    "AreaManagement": {
-      "description": "Defines, modifies, or removes areas by pinning at least three points",
+    "Startup Menu": {
+      "description": "Explains the components in starting a training session with CoSI Pilot.",
       "features": [
         {
-          "name": "Create Area",
-          "description": "Creates a new area on the map."
+          "name": "Training Time",
+          "description": "Training Time determines how long the play session will last."
         },
         {
-          "name": "Edit Area",
-          "description": "Edits an existing area on the map."
+          "name": "Drone Responsiveness",
+          "description": "Drone Responsiveness determines how fast or slow the drone will respond to the user’s controls."
         },
         {
-          "name": "Delete Area",
-          "description": "Deletes an area from the map."
+          "name": "Time of Day",
+          "description": "Time of Day determines what time of day the environment will be in."
         },
         {
-          "name": "AOI",
-          "description": "Set Area of operation Interest."
+          "name": "Drone Configuration",
+          "description": "Drone Configuration allows the user to customize the stats of their drone."
+        },
+                {
+          "name": "Map Selection",
+          "description": "Map Selection allows the user to select what maps they would like to play on."
+        },
+                {
+          "name": "Start Training",
+          "description": "Start Training allows the user to enter the map."
         }
       ]
     },
-    "SymbolsManagement": {
-      "description": "Manages military symbols on the map",
+    "Drone Configuration": {
+      "description": "The Drone Configuration button allows the user to modify the sensitivity of their drone.",
       "features": [
         {
-          "name": "Create Symbol",
-          "description": "Creates a new symbol on the map."
+          "name": "RPM",
+          "description": "RPM is Revolutions per Minute."
         },
         {
-          "name": "Edit Symbol",
-          "description": "Edits an existing symbol on the map."
+          "name": "Hover Assist",
+          "description": "Hover Assist is how much the drone will be able to hover on its own."
         },
         {
-          "name": "Delete Symbols",
-          "description": "Deletes symbols from the map."
+          "name": "Weight",
+          "description": "Weight is how heavy the drone will be."
+        },
+        {
+          "name": "Horizontal Sensitivity",
+          "description": "Horizontal Sensitivity effects how sensitive the drone will be on the horizontal axis."
+        },
+        {
+          "name": "Yaw Sensitivity",
+          "description": "Yaw Sensitivity effects how sensitive the drone will be on yaw axis."
+        },
+        {
+          "name": "Vertical Sensitivity",
+          "description": "Vertical Sensitivity effects how sensitive the drone will be on the vertical axis."
         }
       ]
     },
-    "FakingSystem": {
-      "description": "Aircraft simulation system where users input required information before adding simulated aircraft",
+    "Map Selection": {
+      "description": "The Map Selection button allows the user to select which map they would like to play on.",
       "features": [
         {
-          "name": "Add Faker Aircraft",
-          "description": "Inserts a simulated aircraft onto the map, requiring complete data input."
+          "name": "Toon Forest",
+          "description": "Soar over the rolling hills and open fields of the Grassland, a serene landscape perfect for peaceful exploration. Glide along winding paths, skim over lush grass, and weave through scattered trees beneath a vast, cloud-dotted sky."
         },
         {
-          "name": "Faker Information",
-          "description": "Displays detailed information on simulated aircraft."
+          "name": "Bangkok University",
+          "description": "Explore Bangkok University’s vibrant campus, featuring modern architecture and lush green spaces. Navigate through landmarks like BU Diamond Building and the Student Activities Center to enhance your drone piloting skills in this realistic urban educational setting."
         },
         {
-          "name": "Edit Faker Status",
-          "description": "Modifies the status of simulated aircraft."
-        },
-        {
-          "name": "Delete Faker Aircraft",
-          "description": "Removes simulated aircraft from the map."
+          "name": "Meadow",
+          "description": "Fly through a serene meadow with flowing hills, vibrant flora, and winding paths. Navigate trees and rustic fences under an open sky, perfect for drone training."
         }
       ]
     },
-    "MeasurementTools": {
+    "I Finished Here - This is just to mark my spot.": {
       "description": "Tools for measuring distance and calculating potential collisions between aircraft",
       "features": [
         {
