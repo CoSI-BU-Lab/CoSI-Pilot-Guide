@@ -5,13 +5,11 @@
       "features": [
         {
           "name": "Zoom In - Zoom Out",
-          "description": "Allows users to zoom in on the map to view details more closely or zoom out on the map for a broader perspective. (User can use scroll button on mouse for Zoom-In and Zoom-Out.)",
-          "video": "/Video/Map Operation/ZoomIn-ZoomOut.mp4"
+          "description": "Allows users to zoom in on the map to view details more closely or zoom out on the map for a broader perspective. (User can use scroll button on mouse for Zoom-In and Zoom-Out.)"
         },
         {
           "name": "Capture Map",
-          "description": "Captures and saves the current map view as an image, focusing only on map and objects (not including side panel and feature button).",
-          "video": "/Video/Map Operation/CaptureMap.mp4"
+          "description": "Captures and saves the current map view as an image, focusing only on map and objects (not including side panel and feature button)."
         },
         {
           "name": "Map Types",
