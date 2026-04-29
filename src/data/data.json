@@ -13,36 +13,30 @@
         },
         {
           "name": "Map Types",
-          "description": "Allows users to switch between different map types: Google, Terrain, Hybrid, Yandex, UMP. (Map provided is offline for system security.)",
-          "video": "/Video/Map Operation/MapTypes.mp4"
+          "description": "Allows users to switch between different map types: Google, Terrain, Hybrid, Yandex, UMP. (Map provided is offline for system security.)"
         },
         {
           "name": "Map Dark/Light Mode",
-          "description": "Toggles the map display between dark and light modes for better visibility.",
-          "video": "/Video/Map Operation/DarkLightMode.mp4"
+          "description": "Toggles the map display between dark and light modes for better visibility."
         },
         {
           "name": "Unit of Pinned Location",
-          "description": "Allows users to change the unit of measurement for coordinates of pinned locations.",
-          "video": "/Video/Map Operation/ConvertPinnedUnit.mp4"
+          "description": "Allows users to change the unit of measurement for coordinates of pinned locations."
         },
         {
           "name": "Areas and Symbols",
           "features": [
             {
               "name": "Save Areas and Symbols",
-              "description": "Saves the current areas and symbols for future use.",
-              "video": "/Video/Map Operation/SaveAreaAndSymbols.mp4"
+              "description": "Saves the current areas and symbols for future use."
             },
             {
               "name": "Load Areas and Symbols",
-              "description": "Loads the saved areas and symbols onto the map.",
-              "video": "/Video/Map Operation/LoadAreaAndSymbols.mp4"
+              "description": "Loads the saved areas and symbols onto the map."
             },
             {
               "name": "Clear Areas and Symbols",
-              "description": "Clears all areas and symbols currently displayed on the map.",
-              "video": "/Video/Map Operation/ClearArea_Symbols.mp4"
+              "description": "Clears all areas and symbols currently displayed on the map."
             }
           ]
         }
@@ -53,33 +47,27 @@
       "features": [
         {
           "name": "Display Unit",
-          "description": "Adjusts the speed line representation for aircraft, either head or tail.",
-          "video": "/Video/System Settings/DisplayUnit.mp4"
+          "description": "Adjusts the speed line representation for aircraft, either head or tail."
         },
         {
           "name": "Measurement Unit",
-          "description": "Configures units for position, altitude, speed, and bearing.",
-          "video": "/Video/System Settings/MeasurementUnit.mp4"
+          "description": "Configures units for position, altitude, speed, and bearing."
         },
         {
           "name": "Quick Measurement Setting",
-          "description": "A quick setup option to match system settings.",
-          "video": "/Video/System Settings/QiuckMeasurementUnit.mp4"
+          "description": "A quick setup option to match system settings."
         },
         {
           "name": "Max Speed for Collision Point Calculation",
-          "description": "Sets the maximum speed for aircraft when calculating collision points.",
-          "video": "/Video/System Settings/MaxSpeed.mp4"
+          "description": "Sets the maximum speed for aircraft when calculating collision points."
         },
         {
           "name": "Radar Radius Setting",
-          "description": "Manages four radar radius circles, allowing individual toggling on or off.",
-          "video": "/Video/System Settings/RadarSettings.mp4"
+          "description": "Manages four radar radius circles, allowing individual toggling on or off."
         },
         {
           "name": "Send-Receive Port Data",
-          "description": "Configures serial port data transmission, with settings for port, bps, data bits, parity, stop bits, and flow control.",
-          "video": "/Video/System Settings/Port.mp4"
+          "description": "Configures serial port data transmission, with settings for port, bps, data bits, parity, stop bits, and flow control."
         }
       ]
     },
@@ -88,13 +76,11 @@
       "features": [
         {
           "name": "Radar Position",
-          "description": "Sets the radar's central position on the map.",
-          "video": "/Video/Map Settings/RadarPos.mp4"
+          "description": "Sets the radar's central position on the map."
         },
         {
           "name": "Radar",
-          "description": "Defines radar parameters for coverage and range display on the map.",
-          "video": "/Video/Map Settings/Radar.mp4"
+          "description": "Defines radar parameters for coverage and range display on the map."
         }
       ]
     },
@@ -103,23 +89,19 @@
       "features": [
         {
           "name": "Create Area",
-          "description": "Creates a new area on the map.",
-          "video": "/Video/Area Management/CreateArea.mp4"
+          "description": "Creates a new area on the map."
         },
         {
           "name": "Edit Area",
-          "description": "Edits an existing area on the map.",
-          "video": "/Video/Area Management/EditArea2.mp4"
+          "description": "Edits an existing area on the map."
         },
         {
           "name": "Delete Area",
-          "description": "Deletes an area from the map.",
-          "video": "/Video/Area Management/DeleteArea.mp4"
+          "description": "Deletes an area from the map."
         },
         {
           "name": "AOI",
-          "description": "Set Area of operation Interest.",
-          "video": "/Video/Area Management/SetAOIComplete.mp4"
+          "description": "Set Area of operation Interest."
         }
       ]
     },
@@ -128,18 +110,15 @@
       "features": [
         {
           "name": "Create Symbol",
-          "description": "Creates a new symbol on the map.",
-          "video": "/Video/Symbol Management/CreateSymbol.mp4"
+          "description": "Creates a new symbol on the map."
         },
         {
           "name": "Edit Symbol",
-          "description": "Edits an existing symbol on the map.",
-          "video": "/Video/Symbol Management/EditSymbol.mp4"
+          "description": "Edits an existing symbol on the map."
         },
         {
           "name": "Delete Symbols",
-          "description": "Deletes symbols from the map.",
-          "video": "/Video/Symbol Management/DeleteSymbol.mp4"
+          "description": "Deletes symbols from the map."
         }
       ]
     },
@@ -148,23 +127,19 @@
       "features": [
         {
           "name": "Add Faker Aircraft",
-          "description": "Inserts a simulated aircraft onto the map, requiring complete data input.",
-          "video": "/Video/Faking/Faker.mp4"
+          "description": "Inserts a simulated aircraft onto the map, requiring complete data input."
         },
         {
           "name": "Faker Information",
-          "description": "Displays detailed information on simulated aircraft.",
-          "video": "/Video/Faking/FakerInformation.mp4"
+          "description": "Displays detailed information on simulated aircraft."
         },
         {
           "name": "Edit Faker Status",
-          "description": "Modifies the status of simulated aircraft.",
-          "video": "/Video/Faking/EditFakerStatus.mp4"
+          "description": "Modifies the status of simulated aircraft."
         },
         {
           "name": "Delete Faker Aircraft",
-          "description": "Removes simulated aircraft from the map.",
-          "video": "/Video/Faking/DeleteFaker.mp4"
+          "description": "Removes simulated aircraft from the map."
         }
       ]
     },
@@ -173,13 +148,11 @@
       "features": [
         {
           "name": "Calculation Collision",
-          "description": "Calculates potential collision points between two selected aircraft. (Select first aircraft -> Select second aircraft, then wait for system calculation.)",
-          "video": "/Video/Measurement Tools/CalculateCollision.mp4"
+          "description": "Calculates potential collision points between two selected aircraft. (Select first aircraft -> Select second aircraft, then wait for system calculation.)"
         },
         {
           "name": "Measure Distance",
-          "description": "Measures distances between various points, including aircraft and ground locations. (Can measure only between two items, such as Aircraft-Aircraft, Aircraft-Symbol, Symbol-Symbol, etc.)",
-          "video": "/Video/Measurement Tools/MeasureDistance.mp4"
+          "description": "Measures distances between various points, including aircraft and ground locations. (Can measure only between two items, such as Aircraft-Aircraft, Aircraft-Symbol, Symbol-Symbol, etc.)"
         }
       ]
     },
@@ -188,13 +161,11 @@
       "features": [
         {
           "name": "Select Aircraft",
-          "description": "Allows users to select specific aircraft on the map for closer inspection. (User can press and hold 'F' button on keyboard then Left-click desired track.)",
-          "video": "/Video/Aircraft Monitoring/AircraftMonitoring.mp4"
+          "description": "Allows users to select specific aircraft on the map for closer inspection. (User can press and hold 'F' button on keyboard then Left-click desired track.)"
         },
         {
           "name": "Aircraft Information",
-          "description": "Displays detailed information about selected aircraft, including Track ID, IFF, position, speed, direction, altitude, and status. Simulated tracks allow status modification and track deletion.",
-          "video": "/Video/Aircraft Monitoring/AircraftInformation.mp4"
+          "description": "Displays detailed information about selected aircraft, including Track ID, IFF, position, speed, direction, altitude, and status. Simulated tracks allow status modification and track deletion."
         }
       ]
     },
@@ -249,46 +220,38 @@
       "features": [
         {
           "name": "ซูมเข้า - ซูมออก",
-          "description": "ช่วยให้ผู้ใช้สามารถซูมเข้าแผนที่เพื่อดูรายละเอียด หรือซูมออกเพื่อมุมมองที่กว้างขึ้น (ผู้ใช้สามารถใช้ปุ่มเลื่อนของเมาส์เพื่อซูมเข้าและซูมออก)",
-          "video": "/Video/Map Operation/ZoomIn-ZoomOut.mp4"
+          "description": "ช่วยให้ผู้ใช้สามารถซูมเข้าแผนที่เพื่อดูรายละเอียด หรือซูมออกเพื่อมุมมองที่กว้างขึ้น (ผู้ใช้สามารถใช้ปุ่มเลื่อนของเมาส์เพื่อซูมเข้าและซูมออก)"
         },
         {
           "name": "จับภาพแผนที่",
-          "description": "จับภาพและบันทึกการแสดงผลแผนที่ปัจจุบัน โดยเน้นเฉพาะแผนที่และวัตถุ (ไม่รวมแผงด้านข้างและปุ่มฟังก์ชัน)",
-          "video": "/Video/Map Operation/CaptureMap.mp4"
+          "description": "จับภาพและบันทึกการแสดงผลแผนที่ปัจจุบัน โดยเน้นเฉพาะแผนที่และวัตถุ (ไม่รวมแผงด้านข้างและปุ่มฟังก์ชัน)"
         },
         {
           "name": "ประเภทแผนที่",
-          "description": "ช่วยให้ผู้ใช้สลับระหว่างประเภทแผนที่ต่าง ๆ เช่น Google, Terrain, Hybrid, Yandex, UMP (แผนที่ที่ให้มาจะเป็นออฟไลน์เพื่อความปลอดภัยของระบบ)",
-          "video": "/Video/Map Operation/MapTypes.mp4"
+          "description": "ช่วยให้ผู้ใช้สลับระหว่างประเภทแผนที่ต่าง ๆ เช่น Google, Terrain, Hybrid, Yandex, UMP (แผนที่ที่ให้มาจะเป็นออฟไลน์เพื่อความปลอดภัยของระบบ)"
         },
         {
           "name": "โหมดมืด/สว่างของแผนที่",
-          "description": "สลับการแสดงผลแผนที่ระหว่างโหมดมืดและโหมดสว่าง เพื่อความสะดวกในการมองเห็น",
-          "video": "/Video/Map Operation/DarkLightMode.mp4"
+          "description": "สลับการแสดงผลแผนที่ระหว่างโหมดมืดและโหมดสว่าง เพื่อความสะดวกในการมองเห็น"
         },
         {
           "name": "หน่วยของตำแหน่งที่ปักหมุด",
-          "description": "ช่วยให้ผู้ใช้สามารถเปลี่ยนหน่วยวัดสำหรับพิกัดของตำแหน่งที่ปักหมุด",
-          "video": "/Video/Map Operation/ConvertPinnedUnit.mp4"
+          "description": "ช่วยให้ผู้ใช้สามารถเปลี่ยนหน่วยวัดสำหรับพิกัดของตำแหน่งที่ปักหมุด"
         },
         {
           "name": "พื้นที่และสัญลักษณ์",
           "features": [
             {
               "name": "Save Areas and Symbols (บันทึกพื้นที่และสัญลักษณ์)",
-              "description": "บันทึกพื้นที่และสัญลักษณ์ปัจจุบันเพื่อใช้ในอนาคต",
-              "video": "/Video/Map Operation/SaveAreaAndSymbols.mp4"
+              "description": "บันทึกพื้นที่และสัญลักษณ์ปัจจุบันเพื่อใช้ในอนาคต"
             },
             {
               "name": "Load Areas and Symbols (โหลดพื้นที่และสัญลักษณ์)",
-              "description": "โหลดพื้นที่และสัญลักษณ์ที่บันทึกไว้ลงในแผนที่",
-              "video": "/Video/Map Operation/LoadAreaAndSymbols.mp4"
+              "description": "โหลดพื้นที่และสัญลักษณ์ที่บันทึกไว้ลงในแผนที่"
             },
             {
               "name": "Clear Areas and Symbols (ล้างพื้นที่และสัญลักษณ์)",
-              "description": "ล้างพื้นที่และสัญลักษณ์ทั้งหมดที่แสดงอยู่บนแผนที่",
-              "video": "/Video/Map Operation/ClearArea_Symbols.mp4"
+              "description": "ล้างพื้นที่และสัญลักษณ์ทั้งหมดที่แสดงอยู่บนแผนที่"
             }
           ]
         }
@@ -299,33 +262,27 @@
       "features": [
         {
           "name": "หน่วยแสดงผล",
-          "description": "ปรับการแสดงผลของเส้นความเร็วสำหรับเครื่องบิน ว่าจะเป็นหัวหรือหางของเครื่องบิน",
-          "video": "/Video/System Settings/DisplayUnit.mp4"
+          "description": "ปรับการแสดงผลของเส้นความเร็วสำหรับเครื่องบิน ว่าจะเป็นหัวหรือหางของเครื่องบิน"
         },
         {
           "name": "หน่วยการวัด",
-          "description": "ตั้งค่าหน่วยสำหรับตำแหน่ง, ความสูง, ความเร็ว และทิศทาง",
-          "video": "/Video/System Settings/MeasurementUnit.mp4"
+          "description": "ตั้งค่าหน่วยสำหรับตำแหน่ง, ความสูง, ความเร็ว และทิศทาง"
         },
         {
           "name": "การตั้งค่าการวัดอย่างรวดเร็ว",
-          "description": "ตัวเลือกการตั้งค่าอย่างรวดเร็วเพื่อให้ตรงกับการตั้งค่าของระบบ",
-          "video": "/Video/System Settings/QiuckMeasurementUnit.mp4"
+          "description": "ตัวเลือกการตั้งค่าอย่างรวดเร็วเพื่อให้ตรงกับการตั้งค่าของระบบ"
         },
         {
           "name": "ความเร็วสูงสุดสำหรับการคำนวณจุดชน",
-          "description": "ตั้งค่าความเร็วสูงสุดของเครื่องบินในการคำนวณจุดชน",
-          "video": "/Video/System Settings/MaxSpeed.mp4"
+          "description": "ตั้งค่าความเร็วสูงสุดของเครื่องบินในการคำนวณจุดชน"
         },
         {
           "name": "การตั้งค่ารัศมีเรดาร์",
-          "description": "จัดการวงรัศมีของเรดาร์ 4 วง เพื่อให้สามารถเปิดหรือปิดได้ตามต้องการ",
-          "video": "/Video/System Settings/RadarSettings.mp4"
+          "description": "จัดการวงรัศมีของเรดาร์ 4 วง เพื่อให้สามารถเปิดหรือปิดได้ตามต้องการ"
         },
         {
           "name": "การส่ง-รับข้อมูลจากพอร์ต",
-          "description": "ตั้งค่าการส่งข้อมูลผ่าน Port แบบอนุกรม รวมถึงการตั้งค่า port, bps, data bits, parity, stop bits และ flow control",
-          "video": "/Video/System Settings/Port.mp4"
+          "description": "ตั้งค่าการส่งข้อมูลผ่าน Port แบบอนุกรม รวมถึงการตั้งค่า port, bps, data bits, parity, stop bits และ flow control"
         }
       ]
     },
@@ -334,13 +291,11 @@
       "features": [
         {
           "name": "ตำแหน่งเรดาร์",
-          "description": "ตั้งตำแหน่งกลางของเรดาร์บนแผนที่",
-          "video": "/Video/Map Settings/RadarPos.mp4"
+          "description": "ตั้งตำแหน่งกลางของเรดาร์บนแผนที่"
         },
         {
           "name": "เรดาร์",
-          "description": "กำหนดพารามิเตอร์ของเรดาร์สำหรับการแสดงผลการครอบคลุมและระยะบนแผนที่",
-          "video": "/Video/Map Settings/Radar.mp4"
+          "description": "กำหนดพารามิเตอร์ของเรดาร์สำหรับการแสดงผลการครอบคลุมและระยะบนแผนที่"
         }
       ]
     },
@@ -349,23 +304,19 @@
       "features": [
         {
           "name": "สร้างพื้นที่",
-          "description": "สร้างพื้นที่ใหม่บนแผนที่",
-          "video": "/Video/Area Management/CreateArea.mp4"
+          "description": "สร้างพื้นที่ใหม่บนแผนที่"
         },
         {
           "name": "แก้ไขพื้นที่",
-          "description": "แก้ไขพื้นที่ที่มีอยู่บนแผนที่",
-          "video": "/Video/Area Management/EditArea2.mp4"
+          "description": "แก้ไขพื้นที่ที่มีอยู่บนแผนที่"
         },
         {
           "name": "ลบพื้นที่",
-          "description": "ลบพื้นที่ออกจากแผนที่",
-          "video": "/Video/Area Management/DeleteArea.mp4"
+          "description": "ลบพื้นที่ออกจากแผนที่"
         },
         {
           "name": "พื้นที่ห้ามบิน",
-          "description": "กำหนดพื้นที่ห้ามบิน",
-          "video": "/Video/Area Management/SetAOIComplete.mp4"
+          "description": "กำหนดพื้นที่ห้ามบิน"
         }
       ]
     },
@@ -374,18 +325,15 @@
       "features": [
         {
           "name": "สร้างสัญลักษณ์",
-          "description": "สร้างสัญลักษณ์ใหม่บนแผนที่",
-          "video": "/Video/Symbol Management/CreateSymbol.mp4"
+          "description": "สร้างสัญลักษณ์ใหม่บนแผนที่"
         },
         {
           "name": "แก้ไขสัญลักษณ์",
-          "description": "แก้ไขสัญลักษณ์ที่มีอยู่บนแผนที่",
-          "video": "/Video/Symbol Management/EditSymbol.mp4"
+          "description": "แก้ไขสัญลักษณ์ที่มีอยู่บนแผนที่"
         },
         {
           "name": "ลบสัญลักษณ์",
-          "description": "ลบสัญลักษณ์ออกจากแผนที่",
-          "video": "/Video/Symbol Management/DeleteSymbol.mp4"
+          "description": "ลบสัญลักษณ์ออกจากแผนที่"
         }
       ]
     },
@@ -394,23 +342,19 @@
       "features": [
         {
           "name": "เพิ่มเครื่องบินจำลอง",
-          "description": "เพิ่มเครื่องบินจำลองลงในแผนที่ โดยต้องกรอกข้อมูลให้ครบถ้วน",
-          "video": "/Video/Faking/Faker.mp4"
+          "description": "เพิ่มเครื่องบินจำลองลงในแผนที่ โดยต้องกรอกข้อมูลให้ครบถ้วน"
         },
         {
           "name": "ข้อมูลเครื่องบินจำลอง",
-          "description": "แสดงข้อมูลรายละเอียดของเครื่องบินจำลอง",
-          "video": "/Video/Faking/FakerInformation.mp4"
+          "description": "แสดงข้อมูลรายละเอียดของเครื่องบินจำลอง"
         },
         {
           "name": "แก้ไขสถานะเครื่องบินจำลอง",
-          "description": "แก้ไขสถานะของเครื่องบินจำลอง",
-          "video": "/Video/Faking/EditFakerStatus.mp4"
+          "description": "แก้ไขสถานะของเครื่องบินจำลอง"
         },
         {
           "name": "ลบเครื่องบินจำลอง",
-          "description": "ลบเครื่องบินจำลองออกจากแผนที่",
-          "video": "/Video/Faking/DeleteFaker.mp4"
+          "description": "ลบเครื่องบินจำลองออกจากแผนที่"
         }
       ]
     },
@@ -419,13 +363,11 @@
       "features": [
         {
           "name": "คำนวณการชนกัน",
-          "description": "คำนวณจุดการชนกันที่เป็นไปได้ระหว่างเครื่องบินที่เลือกสองลำ (เลือกเครื่องบินแรก -> เลือกเครื่องบินที่สอง จากนั้นรอการคำนวณจากระบบ)",
-          "video": "/Video/Measurement Tools/CalculateCollision.mp4"
+          "description": "คำนวณจุดการชนกันที่เป็นไปได้ระหว่างเครื่องบินที่เลือกสองลำ (เลือกเครื่องบินแรก -> เลือกเครื่องบินที่สอง จากนั้นรอการคำนวณจากระบบ)"
         },
         {
           "name": "วัดระยะทาง",
-          "description": "วัดระยะทางระหว่างจุดต่าง ๆ รวมถึงระหว่างเครื่องบินและตำแหน่งบนพื้น (สามารถวัดได้ระหว่างสองรายการ เช่น เครื่องบิน-เครื่องบิน, เครื่องบิน-สัญลักษณ์, สัญลักษณ์-สัญลักษณ์ เป็นต้น)",
-          "video": "/Video/Measurement Tools/MeasureDistance.mp4"
+          "description": "วัดระยะทางระหว่างจุดต่าง ๆ รวมถึงระหว่างเครื่องบินและตำแหน่งบนพื้น (สามารถวัดได้ระหว่างสองรายการ เช่น เครื่องบิน-เครื่องบิน, เครื่องบิน-สัญลักษณ์, สัญลักษณ์-สัญลักษณ์ เป็นต้น)"
         }
       ]
     },
@@ -434,13 +376,11 @@
       "features": [
         {
           "name": "เลือกเครื่องบิน",
-          "description": "ให้ผู้ใช้เลือกเครื่องบินเฉพาะบนแผนที่เพื่อการตรวจสอบที่ใกล้ชิด (ผู้ใช้สามารถกดและค้างปุ่ม 'F' บนคีย์บอร์ดแล้วคลิกซ้ายที่เส้นทางที่ต้องการ)",
-          "video": "/Video/Aircraft Monitoring/AircraftMonitoring.mp4"
+          "description": "ให้ผู้ใช้เลือกเครื่องบินเฉพาะบนแผนที่เพื่อการตรวจสอบที่ใกล้ชิด (ผู้ใช้สามารถกดและค้างปุ่ม 'F' บนคีย์บอร์ดแล้วคลิกซ้ายที่เส้นทางที่ต้องการ)"
         },
         {
           "name": "ข้อมูลเครื่องบิน",
-          "description": "แสดงข้อมูลรายละเอียดของเครื่องบินที่เลือก เช่น Track ID, IFF, ตำแหน่ง, ความเร็ว, ทิศทาง, ความสูง, และสถานะ เส้นทางจำลองสามารถปรับสถานะและลบเส้นทางได้",
-          "video": "/Video/Aircraft Monitoring/AircraftInformation.mp4"
+          "description": "แสดงข้อมูลรายละเอียดของเครื่องบินที่เลือก เช่น Track ID, IFF, ตำแหน่ง, ความเร็ว, ทิศทาง, ความสูง, และสถานะ เส้นทางจำลองสามารถปรับสถานะและลบเส้นทางได้"
         }
       ]
     },
