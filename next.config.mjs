@@ -3,7 +3,7 @@ const withNextIntl = createNextIntlPlugin();
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['cosi.bu.ac.th', 'github.com', 'www.countryflags.com'],
+        domains: ['cosi.bu.ac.th', 'github.com', 'www.countryflags.com', "raw.githubusercontent.com"],
     },
     eslint: {
         ignoreDuringBuilds: true, // Allows build to complete even if ESLint errors exist

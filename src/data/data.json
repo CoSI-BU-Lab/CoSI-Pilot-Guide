@@ -5,35 +5,43 @@
       "features": [
         {
           "name": "Login - Logout",
-          "description": "This allows the user to login with their account. They may also sign in as a guest."
+          "description": "This allows the user to login with their account. They may also sign in as a guest.",
+          "image":"/Images/Login-Logout.png"
         },
         {
           "name": "Free Flight",
-          "description": "In Free Flight, the player can enter into this mode to play CoSI Pilot without having to deal with any major objectives or obstacles."
+          "description": "In Free Flight, the player can enter into this mode to play CoSI Pilot without having to deal with any major objectives or obstacles.",
+          "image":"/Images/MainMenu(FreeFlight).png"
         },
         {
           "name": "Mission Training",
-          "description": "In Mission Training, the player will be allowed to pick special levels that will teach them basic skills and drone piloting terminology. Press any of the blue “Play” buttons to go into the configuration screen for that level."
+          "description": "In Mission Training, the player will be allowed to pick special levels that will teach them basic skills and drone piloting terminology. Press any of the blue “Play” buttons to go into the configuration screen for that level.",
+          "image":"/Images/MissionTraining1.png"
         },
         {
           "name": "Mission Challenge",
-          "description": "In Mission Challenge, the player is given a special scenario and must follow specific mechanics are controls on their drone to complete the mission."
+          "description": "In Mission Challenge, the player is given a special scenario and must follow specific mechanics are controls on their drone to complete the mission.",
+          "image":"/Images/MissionChallenge.png"
         },
         {
           "name": "History Record",
-          "description": "There are three tabs in History Record. These allow for the user to check specific records they would like to see."
+          "description": "There are three tabs in History Record. These allow for the user to check specific records they would like to see.",
+          "image":"/Images/HistoryRecord.png"
         },
         {
           "name": "Leaderboard",
-          "description": "There are three tabs in Leaderboard. These allow for the user to check specific rankings they would like to see."
+          "description": "There are three tabs in Leaderboard. These allow for the user to check specific rankings they would like to see.",
+          "image":"/Images/Leaderboard.png"
         },
         {
           "name": "Settings",
-          "description": "The Settings allows for the user to customize specific controls of the CoSI Pilot program."
+          "description": "The Settings allows for the user to customize specific controls of the CoSI Pilot program.",
+          "image":"/Images/Settings2.png"
         },
         {
           "name": "About",
-          "description": "The About page describes the various credentials and information for the CoSI Pilot program."
+          "description": "The About page describes the various credentials and information for the CoSI Pilot program.",
+          "image":"/Images/About.png"
         }
       ]
     },
@@ -42,7 +50,8 @@
       "features": [
         {
           "name": "Attitude Control",
-          "description": "Makes the drone go up or down. Helps tell the drone to turn direction it is facing."
+          "description": "Makes the drone go up or down. Helps tell the drone to turn direction it is facing.",
+          "image":"/Images/ControllerUI1.png"
         },
         {
           "name": "Direction Control",
@@ -59,27 +68,33 @@
       "features": [
         {
           "name": "Training 1: RPAS",
-          "description": "In the training mode, the map has a limited area. If the trainee goes outside the designated training area, a warning will prompt them to return. Failure to return in time will result in mission failure."
+          "description": "In the training mode, the map has a limited area. If the trainee goes outside the designated training area, a warning will prompt them to return. Failure to return in time will result in mission failure.",
+          "image":"/Images/Training1-RPAS.png"
         },
         {
           "name": "Training 2: Vertical Rectangle",
-          "description": "In the training mode, the map has a limited area. If the trainee goes outside the designated training area, a warning will prompt them to return. Failure to return in time will result in mission failure."
+          "description": "In the training mode, the map has a limited area. If the trainee goes outside the designated training area, a warning will prompt them to return. Failure to return in time will result in mission failure.",
+          "image":"/Images/Training2-VerticalRectangle.png"
         },
         {
           "name": "Training 3: Precision Hover",
-          "description": "Force the drone to hover steadily, maintaining its position precisely within a designated circle."
+          "description": "Force the drone to hover steadily, maintaining its position precisely within a designated circle.",
+          "image":"/Images/Training3-PrecisionHover.png"
         },
         {
           "name": "Training 4: Figure 8",
-          "description": "Fly along the 8 figure pattern and see your accuracy."
+          "description": "Fly along the 8 figure pattern and see your accuracy.",
+          "image":"/Images/Training4-Figure8.png"
         },
         {
           "name": "Training 5: Flying In Circle",
-          "description": "Fly the drone to create a circular pattern."
+          "description": "Fly the drone to create a circular pattern.",
+          "image":"/Images/Training5-FlyinginCircle.png"
         },
         {
           "name": "Training 6: Normal Circuit",
-          "description": "Fly the drone to the position following the circuit pattern."
+          "description": "Fly the drone to the position following the circuit pattern.",
+          "image":"/Images/Training6-NormalCircuit.png"
         }
       ]
     },
@@ -88,7 +103,8 @@
       "features": [
         {
           "name": "Training Time",
-          "description": "Training Time determines how long the play session will last."
+          "description": "Training Time determines how long the play session will last.",
+          "image":"/Images/SessionSettingsScreenshot.png"
         },
         {
           "name": "Drone Responsiveness",
@@ -100,13 +116,15 @@
         },
         {
           "name": "Drone Configuration",
-          "description": "Drone Configuration allows the user to customize the stats of their drone."
+          "description": "Drone Configuration allows the user to customize the stats of their drone.",
+          "image":"/Images/DroneConfigurationScreenshot.png"
         },
-                {
+        {
           "name": "Map Selection",
-          "description": "Map Selection allows the user to select what maps they would like to play on."
+          "description": "Map Selection allows the user to select what maps they would like to play on.",
+          "image":"/Images/MapSelection.png"
         },
-                {
+        {
           "name": "Start Training",
           "description": "Start Training allows the user to enter the map."
         }
@@ -117,7 +135,8 @@
       "features": [
         {
           "name": "RPM",
-          "description": "RPM is Revolutions per Minute."
+          "description": "RPM is Revolutions per Minute.",
+          "image":"/Images/DroneConfigurationScreenshot.png"
         },
         {
           "name": "Hover Assist",
@@ -146,7 +165,8 @@
       "features": [
         {
           "name": "Toon Forest",
-          "description": "Soar over the rolling hills and open fields of the Grassland, a serene landscape perfect for peaceful exploration. Glide along winding paths, skim over lush grass, and weave through scattered trees beneath a vast, cloud-dotted sky."
+          "description": "Soar over the rolling hills and open fields of the Grassland, a serene landscape perfect for peaceful exploration. Glide along winding paths, skim over lush grass, and weave through scattered trees beneath a vast, cloud-dotted sky.",
+          "image":"/Images/MapSelection.png"
         },
         {
           "name": "Bangkok University",
