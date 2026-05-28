@@ -6,7 +6,8 @@
         {
           "name": "Login - Logout",
           "description": "This allows the user to login with their account. They may also sign in as a guest.",
-          "image":"/Images/Login-Logout.png"
+          "image":"/Images/Login-Logout.png",
+          "video": "/Video/Aircraft Monitoring/AircraftInformation.mp4"
         },
         {
           "name": "Free Flight",
