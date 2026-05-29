@@ -5,17 +5,12 @@ export default function Home() {
     <div className="py-10 px-8 ml-72">
       <main className="flex flex-col gap-8 row-start-2 p-20 items-center sm:items-start">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-center mb-15 dark:text-white">
-          Radar DR-172ADV Software Document
+          CoSI Pilot Software Document
         </h1>
         <div className="mb-8">
           <p className="text-base sm:text-lg md:text-xl leading-relaxed text-gray-800 dark:text-gray-200">
-            <strong>Radar Display Unit</strong> (Air Situation Display: ADS) designed
-            for military air defense systems. The aim is to enhance the data
-            processing and air situation display towards standardized production and
-            meet the IEEE 25010 standard. This unit is intended to replace a
-            previously failed system, restoring full operational capabilities, and
-            introducing new functionalities for real-time, reliable, and secure radar
-            data visualization.
+            <strong>CoSI Pilot</strong> is a program designed to teach users the basics of controlling drones. This is an instruction manual for Bangkok University’s VR Drone Training Program, “CoSI Pilot”.
+The purpose of the manual is to provide users with a clear understanding and method of approach when using the CoSI Pilot program.
           </p>
         </div>
 
